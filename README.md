@@ -785,51 +785,15 @@ NUM_WORKERS = 0  # Must be 0 on Windows
 
 ---
 
-## 🎓 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@software{conversational_defects_analysis,
-  title={Causal Analysis of Conversational Defects: A Hybrid Neuro-Symbolic Approach},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/your-repo}
-}
-```
-
 ---
 
 ## 📝 License
 
 MIT License - See LICENSE file for details
 
----
-
-## 🤝 Contributing
-
-Contributions welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
----
-
-## 📧 Contact
-
-For questions or issues:
-- Open a GitHub issue
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Sentence-Transformers for BERT embeddings
-- PyTorch team for the deep learning framework
-- Anthropic for Claude (used in development assistance)
 
 ---
 
 **Happy Analyzing! 🚀**
+
+**The Model parameters and embed vectorization have not been uploaded onto the repository due to size constraints**
